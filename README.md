@@ -33,4 +33,26 @@ We were able to generate a bar graph to graphically compare the data after we co
 ##### Figure 3:
 <img width="1109" height="405" alt="image" src="https://github.com/user-attachments/assets/43b68fe2-9a9e-4940-b152-f3f81c9f10a7" />
 
+## Analysing Occupancy Rate
+
+Airlines must thoroughly analyze their revenue streams in order to maximize profitability. The overall income per year and average revenue per ticket for each aircraft are important metrics to consider. Airlines may use this information to determine which aircraft types and itineraries generate the most income and alter their operations appropriately. This research can also assist in identifying potential for pricing optimization and allocating resources to more profitable routes. The below **(Table 2:)** shows the total revenue, total tickets and average revenue made per ticket for each aircraft. The aircraft with the highest total revenue is SU9 and from the figure 3 it can be seen that the price of the business class and economy class is the lowest in this aircraft. This can be the reason that most of the people bought this aircraft ticket as its cost is less compared to others. The aircraft with least total revenue is CN1, and the possible reason behind this is it only offers economy class with very least price and it might be because of its poor conditions or less facilities.
+
+#### Table 2:
+<img width="531" height="185" alt="image" src="https://github.com/user-attachments/assets/7ea6a077-a1d2-4ef2-beb9-87198989f84a" />
+
+The average occupancy per aircraft is another critical number to consider. Airlines may measure how successfully they fill their seats and discover chances to boost occupancy rates by using this metric. Higher occupancy rates can help airlines increase revenue and profitability while lowering operational expenses associated with vacant seats. Pricing strategy, airline schedules, and customer satisfaction are all factors that might influence occupancy rates. The below **(Table 3:)** shows the average booked seats from the total number of seats for each aircraft. The occupancy rate is calculated by dividing the booked seats by the total number of seats. **Higher occupancy rate means the aircraft seats are more booked and only few seats are left unbooked**.
+
+#### Table 3:
+<img width="442" height="185" alt="image" src="https://github.com/user-attachments/assets/90bf3973-ccb7-49ff-9c1d-85b75b30340f" />
+
+Airlines can show much their total yearly turnover and it could be provided through a 10% higher occupancy rate to further enhance the effectiveness of raising occupancy rates. This research mainly intends on determining the financial impact of boosting occupancy rates and if it is a realistic strategy. Airlines may enhance occupancy rates by revenue while delivering greater value and service to consumers below competitive pricing and other operational considerations. The below figure shows how the total revenue increased after increasing the occupancy rate by 10% and it gives the result that it will increased gradually so airlines should be more focused on the pricing strategy.
+
+#### Table 4:
+<img width="994" height="184" alt="image" src="https://github.com/user-attachments/assets/575ddcde-463a-4ce9-ad94-9e512a8f8669" />
+
+<h2 align="center">Conclusion</h2>
+
+To summarize, analyzing revenue data such as total revenue per year, average revenue per ticket, and average occupancy per aircraft is critical for airlines seeking to maximize profitability. Airlines can find areas for improvement and modify their pricing and route plans as a result of assessing these indicators. A greater occupancy rate is one important feature that can enhance profitability since it allows airlines to maximize revenue while minimizing costs associated with vacant seats. The airline should revise the price for each aircraft as the lower price and high price is also the factor that people are not buying tickets from those aircrafts. They should decide the reasonable price according to the condition and facility of the aircraft and it should not be very cheap or high.
+
+Furthermore, boosting occupancy rates should not come at the price of consumer happiness or safety. Airlines must strike a balance between the necessity for profit and the significance of delivering high-quality service and upholding safety regulations. Airlines may achieve long-term success in a highly competitive business by adopting a data-driven strategy to revenue analysis and optimisation.
 
